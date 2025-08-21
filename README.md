@@ -25,26 +25,27 @@ Mapty is a frontend-only web application that allows you to track your workouts 
 
 4. Usage :
 
-Click the "+" button or open the form to log a workout.
+   Click the "+" button or open the form to log a workout.
 
-Fill in the details (type, distance, duration, cadence/elevation).
+   Fill in the details (type, distance, duration, cadence/elevation).
 
-Submit the form to see your workout added to the sidebar and marked on the map.
+   Submit the form to see your workout added to the sidebar and marked on the map.
 
-Click on existing workouts in the sidebar to focus the map on their location.
+   Click on existing workouts in the sidebar to focus the map on their location.
 
-Technologies Used
+   Technologies Used
 
-HTML5
+   HTML5
 
-CSS3
+   CSS3
 
-JavaScript (ES6)
-
-Leaflet.js
+  JavaScript (ES6)
+  
+  Leaflet.js
+  
  for interactive maps
 
-Google Fonts (Manrope)
+ Google Fonts (Manrope)
 
 
 License
