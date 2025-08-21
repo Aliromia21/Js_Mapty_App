@@ -10,10 +10,6 @@ Mapty is a frontend-only web application that allows you to track your workouts 
 - **Minimalist Design:** Clean and modern UI using Google Fonts and custom CSS.
 - **Frontend-Only:** Fully functional without any backend or database.
 
-## Demo
-
-*(Optional: Include a screenshot or GIF of your app here)*
-
 ## Installation
 
 1. Clone this repository:
@@ -27,7 +23,7 @@ Mapty is a frontend-only web application that allows you to track your workouts 
 
 3.Make sure style.css and script.js are in the same directory as index.html.
 
-Usage
+4. Usage :
 
 Click the "+" button or open the form to log a workout.
 
@@ -50,15 +46,6 @@ Leaflet.js
 
 Google Fonts (Manrope)
 
-
-Folder Structure
-mapty/
-│
-├── index.html
-├── style.css
-├── script.js
-├── logo.png
-└── README.md
 
 License
 
