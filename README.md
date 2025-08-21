@@ -39,15 +39,15 @@ Mapty is a frontend-only web application that allows you to track your workouts 
 
    CSS3
 
-  JavaScript (ES6)
+   JavaScript (ES6)
   
-  Leaflet.js
+   Leaflet.js
   
- for interactive maps
+   for interactive maps
 
- Google Fonts (Manrope)
+   Google Fonts (Manrope)
 
 
-License
+   License
 
-This project is open-source and available under the MIT License.
+   This project is open-source and available under the MIT License.
