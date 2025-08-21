@@ -21,7 +21,7 @@ Mapty is a frontend-only web application that allows you to track your workouts 
    cd mapty
    open index.html
 
-3.Make sure style.css and script.js are in the same directory as index.html.
+3. Make sure style.css and script.js are in the same directory as index.html.
 
 4. Usage :
 
